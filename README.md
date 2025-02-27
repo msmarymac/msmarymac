@@ -5,7 +5,7 @@
 - 📫 How to reach me at: 
   -   Mastodon: [@saera@ausglam.space](https://ausglam.space/@saera)
   -   Twitter: [@ms_mary_mac](https://twitter.com/ms_mary_mac)
-  -   Anywhere else go look at: https://ms-mary-mac.com/
+  -   Anywhere else go look at: https://saeragermaine.au
 
 <!---
 msmarymac/msmarymac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
